@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there! 👋 I'm Serhii
+# Hey there! 😼 I'm Serhii
 
 **Front-End Developer** who loves building modern, responsive, and efficient websites.
 
